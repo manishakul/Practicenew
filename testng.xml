@@ -3,15 +3,15 @@
 <suite name="All Test Suite">
 
     <test verbose="2" preserve-order="true" name="C:/Users/HP/IdeaProjects/PracticeNew/src/test/java">
-        <groups>
-            <run>
-                <include name="a"/>
-            </run>
-        </groups>
-<!--        <classes>-->
-<!--            <class name="test"/>-->
-<!--            <class name="Parlle2"/>-->
-<!--        </classes>-->
+<!--        <groups>-->
+<!--            <run>-->
+<!--                <include name="a"/>-->
+<!--            </run>-->
+<!--        </groups>-->
+        <classes>
+            <class name="test"/>
+            <class name="Parlle2"/>
+        </classes>
 
     </test>
 </suite>
